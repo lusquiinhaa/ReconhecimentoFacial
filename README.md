@@ -1,4 +1,4 @@
-# ReconhecimentoFacial
+# Reconhecimento Facial
 
 Este é um projeto simples que utiliza a biblioteca Mediapipe juntamente com a OpenCV para realizar o reconhecimento facial em tempo real ou em imagens estáticas.
 
